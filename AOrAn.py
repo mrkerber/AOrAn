@@ -1,6 +1,6 @@
 import json
 
-with open('ipa-dict.json', encoding='utf-8') as file:
+with open('AOrAn/ipa-dict.json', encoding='utf-8') as file:
     ipa_dict = json.load(file)
 
 phonetic_vowels = 'iɪeɛæaɑɔʌoʊuɚ'
